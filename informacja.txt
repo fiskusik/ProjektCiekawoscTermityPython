@@ -1,3 +1,4 @@
+Zespół czynników (czyli informacje o danym projekcie):
 Mamy stół, który jest drewniany.
 Do stołu podąża ekipa zgłodniałych termitów, którzy mają określony termin drugiego śniadania.
 Cel: zjedzenie pierwszej nogi.
